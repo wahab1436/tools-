@@ -1,8 +1,8 @@
-#### Final Project - Data Science Essentials
+#### Final Project - Data Science Tools and Ecosystem
 
-# Exercise 2 - Title of the Notebook
+# Exercise 2 -
 """
-NOTEBOOK
+Data Science Tools and Ecosystem
 """
 
 # Exercise 3 - Introduction
